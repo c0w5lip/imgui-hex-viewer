@@ -6,6 +6,7 @@
 ## Features
 - Opening files
 - ~~Attaching processes~~ (not working for all processes)
+![](screenshots/attach_process.png)
 
 ## TODO
 - Show opened file / attached process name somewhere
