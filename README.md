@@ -1,7 +1,7 @@
 # ImGUI hex viewer
 
 ### Minimalistic hex viewer built using [ImGUI](https://github.com/ocornut/imgui) for learning purposes
-![](screenshots/demo.png)
+[![](screenshots/demo.png)](https://youtu.be/kbCiCVMAS1A)
 
 ## Features
 - Opening files
