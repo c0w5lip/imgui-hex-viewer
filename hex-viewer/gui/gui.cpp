@@ -386,7 +386,7 @@ void gui::Render() noexcept {
 		}
 	}
 
-	// shit doesn't really work well you know
+	// TODO: fix overlapping
 	/*
 	auto windowWidth = ImGui::GetWindowSize().y;
 	auto textWidth = ImGui::CalcTextSize("nbytes").y;
